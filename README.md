@@ -1,5 +1,6 @@
 # rtl-datepicker-magento2
 this module help you to support RTL Date Picker in Magento 2 dashboard, it's very useful to Magento 2 Arabic users.
+حل مشكلة التواريخ في لوحة ماجنتو 2.
 
 # the Issues!
 - magneto 2 arabic locale doesn't support datepicker.
